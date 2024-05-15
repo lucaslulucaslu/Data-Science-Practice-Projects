@@ -1,5 +1,4 @@
 
-.ipynb_checkpoints
+/.ipynb_checkpoints
+/__pycache__
 /datasets
-4. Comparison of Classification Algorithms/.ipynb_checkpoints/Comparison of Classification-checkpoint.ipynb
-1. Fraud Detection/.ipynb_checkpoints/Fraud Detection - sklearn-checkpoint.ipynb
